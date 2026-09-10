@@ -2,5 +2,9 @@ a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 Si, los pude ver una vez que hagan el git push no en tiempo real.
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Lo pudieron ver una vez que hice git push.
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+Los demás integrantes los ven cuando haces un push
+d-¿De qué forma se comunicaron ustedes?
+EN voice chat en la plataforma discord 
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
 la mejor forma de comunicarnos entre nosotros es mediante projects de GitHub, cada uno marca la actividad que resolvió o esta en proceso
